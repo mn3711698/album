@@ -4,4 +4,4 @@ from django.apps import AppConfig
 
 
 class MonnitorConfig(AppConfig):
-    name = 'monnitor'
+    name = 'monitor'
